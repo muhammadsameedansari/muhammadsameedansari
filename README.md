@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadsameedansari
+- 👋 Hi, I’m muhammadsameedansari
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ui/ux development using HTML and CSS
