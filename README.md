@@ -11,7 +11,7 @@
 * 🌱 Currently learning **Web Development**
 * 💻 Love building projects & learning new tech
 * 🎯 Goal: Become a skilled developer
-* 📫 Email: *[your-email@example.com](mailto:sameedasif23@gmail.com)*
+* 📫 Email: *[sameedasif23@gmail.com](mailto:sameedasif23@gmail.com)*
 
 ---
 
