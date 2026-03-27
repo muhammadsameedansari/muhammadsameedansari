@@ -1,7 +1,7 @@
 # Hi 👋, I'm Muhammad Sameed Ansari
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=f0ff&center=true&vCenter=true&width=400&lines=Aspiring+Developer;Learning+Web+Development;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=f01ff&center=true&vCenter=true&width=400&lines=Aspiring+Developer;Learning+Web+Development;Future+Software+Engineer" />
 </p>
 
 ---
